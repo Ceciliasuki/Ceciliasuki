@@ -1,19 +1,25 @@
 # Ceciliasuki
 
-我是中央财经大学应用统计学与国际经济与贸易双学位在读学生。自 2025 年以来，我持续在金融、人工智能与应用统计领域开展研究，关注金融市场与风险分析、大模型评测与应用，以及统计建模与实证分析。
+**金融 AI · 统计建模 · 全栈开发**
 
-我重视数据质量、方法的适用范围和结果的可复核性，也开发工具来支持论文阅读、数据分析与研究记录。
+中央财经大学应用统计学与国际经济与贸易双学位在读。
 
-## 项目
+我在金融、人工智能与统计学的交叉领域做研究和产品开发。我擅长把业务问题拆成可检验的假设，设计样本与评估方案，再将研究流程实现为可用的软件。ACAORA 是我独立开发并上线的开源研究平台。
 
-### ACAORA 学曦 · 开源，已上线
+[体验 ACAORA](https://acaora.cn) · [查看源码](https://github.com/Ceciliasuki/acaora)
 
-我独立开发的学习与研究工作台。读论文时，可以把摘录和笔记留在原文旁；做实证分析时，可以记录数据来源、模型设定和运行结果，并把结果关联到项目里的正文。使用 Next.js、TypeScript 和 Supabase 构建，通过 Playwright 和 GitHub Actions 检查关键流程。
+## 代表项目
 
-[在线体验](https://acaora.cn) · [源码与使用说明](https://github.com/Ceciliasuki/acaora) · [研究流程实现](https://github.com/Ceciliasuki/acaora/blob/main/docs/reviews/2026-10-25-connected-research-tools.md)
+### ACAORA 学曦 · 实证研究工作台
 
-### 研报明镜 · 财报核验与研报纠错
+我从产品设计做到全栈开发与生产部署。平台将文献证据、数据版本和模型结果关联到研究项目，写作时可以从引用的结果回到原始材料和对应的分析记录。使用 Next.js、TypeScript 和 Supabase 构建，通过自动化测试检查关键流程。[研究工作台实现](https://github.com/Ceciliasuki/acaora/blob/main/docs/reviews/2026-10-25-connected-research-tools.md)
 
-在团队项目中，我参与搭建财报核验流程。系统从研报中提取待核查的陈述，定位对应财报页和表格，经人工确认后核对金额和单位、复算同比，并给出可追溯到原文的纠错建议。
+### 研报明镜 · 金融 AI 核验工具
 
-*Undergraduate at Central University of Finance and Economics, pursuing a dual degree in Applied Statistics and International Economics and Trade. My work spans financial markets and risk analysis, language model evaluation and applications, and empirical research methods.*
+在团队项目中，我参与搭建研报核验流程，将大模型提取的财务陈述与财报原页、指标口径和复算结果关联起来，支持人工复核并给出有出处的纠错建议。
+
+## 研究方向
+
+自 2025 年参与行业风险建模以来，我的研究逐步延伸到金融大模型评测、人工复核决策与学术文本分析。我关注样本如何构建、模型在什么条件下失效，以及在数据和复核资源有限时，研究结果如何支持决策。
+
+*Applied Statistics and International Economics and Trade undergraduate at Central University of Finance and Economics. I work on financial AI, statistical modeling, and full-stack research tools.*
