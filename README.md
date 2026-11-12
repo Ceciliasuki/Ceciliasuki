@@ -2,7 +2,7 @@
 
 **金融 AI · 应用统计 · 研究工具开发**
 
-我学习应用统计学和国际经济与贸易，关注两个问题：怎样用大模型辅助金融研究，以及怎样把结果追溯到原文和计算过程。我用 Python 做数据处理、统计建模与模型评测，也用 TypeScript 把研究流程做成能实际使用的工具。
+我是中央财经大学应用统计学与国际经济与贸易双学位在读学生。我关注两个问题：怎样用大模型辅助金融研究，以及怎样把结果追溯到原文和计算过程。我用 Python 做数据处理、统计建模与模型评测，也用 TypeScript 把研究流程做成能实际使用的工具。
 
 ## 项目
 
@@ -21,4 +21,4 @@
 - **金融大模型评测**：关注财报问答的证据、计算与失败类型，以及复核资源有限时怎样安排人工核查。
 - **统计建模与数据分析**：关注金融风险和文本数据，重视样本构造、数据质量与结果复查。
 
-*Applied statistics and economics. I build research tools and work on evidence-grounded evaluation for financial AI.*
+*Undergraduate at Central University of Finance and Economics, pursuing a dual degree in Applied Statistics and International Economics and Trade. I build research tools and work on evidence-grounded evaluation for financial AI.*
